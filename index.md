@@ -1,1 +1,3 @@
-Soy Raúl, sin duda la estrella de SMX2
+# Raúl Serrano Ibañez
+## Administrador de redes microinformáticas
+## Experiencia laboral
