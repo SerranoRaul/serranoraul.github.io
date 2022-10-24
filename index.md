@@ -46,5 +46,6 @@ Educación Secundario Obligatoria | 2016 - 2020
 
 ### Castellano y catalán:
  -  Nativo
+ 
 ### Inglés:
  -  Nivel intermedio avanzado
