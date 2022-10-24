@@ -1,5 +1,5 @@
 # Raúl Serrano Ibañez
-![Image](Puerco.png)
+![Image](Puerquito.png)
 ## Administrador de redes microinformáticas
 ## Experiencia laboral
 ### Mantenimiento de material deportivo
