@@ -11,3 +11,7 @@ Freelance | 2016 - 2019
 - Mantenimiento de redes sociales.
 - Creación de banners y contenido gráfico.
 - Diseño de carteles, flyers, etc.
+
+### Designs
+| Project Name | Your Name / Github Handle | Demo/Gif |
+| :---: | :---: | :---: |
