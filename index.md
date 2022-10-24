@@ -23,9 +23,9 @@ Grado Medio en Sistemas Microinformáticos y Redes | Actual
 ### IES la Roca | La Roca del Valles
 Educación Secundario Obligatoria | 2016 - 2020
 ## Más información
-Certificación MOS en Excel Expert
-Conocimiento en lenguajes como HTML y CSS 
-Dominio en las suites ofimáticas de Microsoft y Adobe
+- Certificación MOS en Excel Expert
+- Conocimiento en lenguajes como HTML y CSS 
+- Dominio en las suites ofimáticas de Microsoft y Adobe
 ### APTITUDES                           
 - Seriedad y compromiso                  
 - Capacidad de escucha y adaptación
