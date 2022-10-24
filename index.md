@@ -1,5 +1,5 @@
 # Raúl Serrano Ibañez
-![Image](Puerquito.png)
+![Image](Puerco.png)
 ## Administrador de redes microinformáticas
 
 ## RESUMEN PROFESIONAL
