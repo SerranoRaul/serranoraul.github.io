@@ -17,3 +17,11 @@ Freelance | 2016 - 2019
 Grado Medio en Sistemas Microinformáticos y Redes | Actual
 ### IES la Roca | La Roca del Valles
 Educación Secundario Obligatoria | 2016 - 2020
+### APTITUDES                           IDIOMAS
+Seriedad y compromiso                   Castellano y catalán: Nativo
+Capacidad de escucha y adaptación
+Resolución de problemas                 Inglés: Nivel intermedio avanzado.
+Excel a nivel avanzado
+Administración de redes
+Trabajo por objetivos
+Formalidad
