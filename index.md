@@ -1,4 +1,5 @@
 # Raúl Serrano Ibañez
+![Image](Nuevo Proyecto.png) 
 ## Administrador de redes microinformáticas
 ## Experiencia laboral
 ### Mantenimiento de material deportivo
