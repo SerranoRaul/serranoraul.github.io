@@ -1,5 +1,5 @@
 # Raúl Serrano Ibañez
-![Image](Cerdo.png)
+### ![Image](Cerdo.png)
 ## Administrador de redes microinformáticas
 ## Experiencia laboral
 ### Mantenimiento de material deportivo
