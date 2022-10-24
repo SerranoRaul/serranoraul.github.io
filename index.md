@@ -1,6 +1,6 @@
 # Raúl Serrano Ibañez
-![Image](Puerquito.png)
 ## Administrador de redes microinformáticas
+![Image](Puerquito.png)
 ## RESUMEN PROFESIONAL
 Estudiante sobresaliente con una excelente capacidad de organización y un buen conocimiento tecnológico.
 Capaz de administrar bases de datos, gestionar infraestructuras de la red.
