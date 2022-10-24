@@ -15,3 +15,7 @@ Freelance | 2016 - 2019
 ### Designs
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
+| [Battery](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/Battery.html) | [manrajgrover](https://github.com/manrajgrover) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Battery.gif" /> |
+| [Hamburger Menu](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [manrajgrover](https://github.com/manrajgrover) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Hamburger.png" /> |
+| [Magnifying Glass](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/Magnifying%20Glass.html)  | [kamito98](https://github.com/kamito98) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Magnifying Glass.png" /> |
+| [New Instagram Logo](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [manrajgrover](https://github.com/manrajgrover) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/instagram.jpg" /> |
