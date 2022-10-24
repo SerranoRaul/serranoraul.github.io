@@ -16,6 +16,7 @@ Empresa de voluntariado | Enero 2019 - Junio 2020
 - Preparación de presupuesto para clientes
 - Atención y asesoramiento al cliente
 - Mantenimiento de material de competición
+
 ### Gestor de redes sociales y creador de contenido
 Freelance | 2016 - 2019
 - Mantenimiento de redes sociales.
